@@ -6,7 +6,7 @@ $ pkg install git
 $ pkg install python
 $ git clone https://github.com/Aldi098/ODOS
 $ cd ODOS
-$ python ODOS.py
+$ python DDOS.py
 ```
 ## Function
 - [x] Attack Website
